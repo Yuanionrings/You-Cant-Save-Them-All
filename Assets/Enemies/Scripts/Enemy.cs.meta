@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e979e89b03e3f7644a1e8b00f596b04c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rayAnchorPoint: {instanceID: 0}
+  - player: {instanceID: 0}
+  - eggEnemy: {instanceID: 0}
+  - playerEnemy: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
